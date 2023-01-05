@@ -1,2 +1,2 @@
-# anomaly-detection-with-mlflow-and-hyperopt
+# pyodflow
 Simplifying Anomaly Detection on Databricks with MLFlow and Hyperopt
